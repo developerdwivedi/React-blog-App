@@ -1,6 +1,6 @@
 # Blog App with React JS
 
-![blog landing](./public/main-page.png)
+![blog landing]([./public/main-page.png](https://github.com/developerdwivedi/React-blog-App/blob/86153b5b68d89d0ba349ba82297a8a3f4134dea3/Screenshot%202024-09-20%20000318.png))
 A blog application with React and Firebase as a backend
 
 ## Project Description
