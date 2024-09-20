@@ -51,6 +51,8 @@ To run this project, you need to create a keys.js file in the root directory of 
 3. Replace YOUR_FIREBASE_API_KEY with your actual Firebase API key.
 4. Save the keys.js file.
 
+![setting](https://github.com/developerdwivedi/React-blog-App/blob/92a548adad4d2193bda55bd8034f2d878ebb4247/Screenshot%202024-09-20%20100241.png)
+
 Once you have created the keys.js file and added your Firebase API key to it, you can run the project.
 
 ## Here are some common commands
