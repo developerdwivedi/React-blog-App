@@ -40,7 +40,7 @@ By clicking on the 'Add Post' button, users can access a modal to create a new p
 - Guest users view the content
 
 ## Setting up the project
-
+![setting](https://github.com/developerdwivedi/React-blog-App/blob/d76a65903dc1ebee1749e6e9c84071bd0ff3342d/Screenshot%202024-09-20%20095535.png)
 To run this project, you need to create a keys.js file in the root directory of the project and add your Firebase API key to it.
 
 1. Create a file named keys.js in the root directory of the project.
