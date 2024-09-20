@@ -13,7 +13,7 @@ This is a React-based blog app that lets users create, like, and delete posts. T
 
 ![login](./public/login.png)
 
-You can access posts without logging in, but you need to log in or create an account to create your own posts. If you would like to try out the feature, you can use the following user credentials:
+You can access posts without logging in, but you need to log in or create an account to create your posts. If you would like to try out the feature, you can use the following user credentials:
 
 testUser@mail.com
 123456
@@ -28,7 +28,7 @@ Create a new user by entering email, username, and password.
 ![after login screen](https://github.com/developerdwivedi/React-blog-App/blob/0707997e6524104198c326413d265edccaab32ea/Screenshot%202024-09-20%20000318.png)
 Upon logging in or registering, users will be directed to the homepage, where they can browse all posts created by other users and create their own posts, along with their titles, descriptions, and images.
 
-
+### Make a single Blog Page to read the full blog.
 ![after login screen](https://github.com/developerdwivedi/React-blog-App/blob/b332d84ec71d9b7e6a94ccb09d69b18df1d86ab8/Screenshot%202024-09-20%20171144.png)
 Make a single Blog Page to read the full blog.
 
