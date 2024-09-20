@@ -27,7 +27,7 @@ Create a new user by entering email, username, and password.
 
 ![after login screen](https://github.com/developerdwivedi/React-blog-App/blob/0707997e6524104198c326413d265edccaab32ea/Screenshot%202024-09-20%20000318.png)
 Upon logging in or registering, users will be directed to the homepage, where they can browse all posts created by other users and create their own posts, along with their titles, descriptions, and images.
-
+![after login screen](https://github.com/developerdwivedi/React-blog-App/blob/b332d84ec71d9b7e6a94ccb09d69b18df1d86ab8/Screenshot%202024-09-20%20171144.png)
 ### New post
 
 ![newpost](./public/create-new-post.png)
