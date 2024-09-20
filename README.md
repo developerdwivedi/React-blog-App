@@ -13,7 +13,7 @@ This is a React-based blog app that lets users create, like, and delete posts. T
 
 ![login](./public/login.png)
 
-You can access posts without logging in, but to create your own posts, you need to login or create an account. If you would like to try out the feature, you can use the following user credentials:
+You can access posts without logging in, but you need to log in or create an account to create your own posts. If you would like to try out the feature, you can use the following user credentials:
 
 testUser@mail.com
 123456
@@ -21,17 +21,17 @@ testUser@mail.com
 ### Register
 
 ![register](./public/register.png)
-Create a new user by entered email, username, password.
+Create a new user by entering email, username, and password.
 
 ### Home
 
 ![after login screen](./public/after-login.png)
-Upon logging in or registering, users will be directed to the homepage where they can browse all posts created by other users and make their own post, along with their titles and descriptions and image.
+Upon logging in or registering, users will be directed to the homepage, where they can browse all posts created by other users and create their own posts, along with their titles, descriptions, and images.
 
 ### New post
 
 ![newpost](./public/create-new-post.png)
-By clicking on the 'Add Post' button, users can access a modal that allows them to create a new post with a title, description, image URL, and content.
+By clicking on the 'Add Post' button, users can access a modal to create a new post with a title, description, image URL, and content.
 
 ### Others
 
@@ -59,6 +59,5 @@ Once you have created the keys.js file and added your Firebase API key to it, yo
 2. npm run dev: Runs the app in development mode.
 3. npm run build: Builds the app for production to the build folder.
 
-# Live
 
 
